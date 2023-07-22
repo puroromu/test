@@ -14,4 +14,4 @@ client.on("ready", () => {
   });
 });
 
-client.login("YOUR_DISCORD_BOT_TOKEN");
+client.login("MTEzMjIxMDkxNDI5NzM4OTA1OA.GZ-0Aa.Za2ZUQ-Z48kMSsVHWN3ay-VgQARRFkqwGl8JgI");
